@@ -72,19 +72,19 @@
 						<nav class="nav">
 							<ul class="nav__list">
 								<li class="nav__item nav__item--active">
-									<a href="about.html" class="nav__link nav__link--about"><i class="fa fa-user-secret"></i><span class="text_font">
+									<a href="/" class="nav__link nav__link--about"><i class="fa fa-user-secret"></i><span class="text_font">
 											Обо мне
 											</span>
 									</a>
 								</li>
 								<li class="nav__item">
-									<a href="career.html" class="nav__link nav__link--career"><i class="fa fa-rocket"></i><span class="text_font">
+									<a href="/career" class="nav__link nav__link--career"><i class="fa fa-rocket"></i><span class="text_font">
 												Карьерный путь
 												</span>
 									</a>
 								</li>
 								<li class="nav__item">
-									<a href="portfolio.html" class="nav__link nav__link--case"><i class="fa fa-briefcase"></i><span class="text_font">
+									<a href="/portfolio" class="nav__link nav__link--case"><i class="fa fa-briefcase"></i><span class="text_font">
 												Портфолио
 												</span>
 									</a>
@@ -92,6 +92,9 @@
 							</ul>
 						</nav>
 					</aside>
+							<?php include 'application/views/'.$content_view; ?>
+					</div>
+					<br class="clearfix" />
 				</div>
 			</div>
 		</div>
