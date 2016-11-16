@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: 'Fira Sans Light';
+    src: local('Fira Sans Light'), local('FiraSans-Light'), url('/fonts_itself/firasanslight.woff2') format('woff2'), url('/fonts_itself/firasanslight.woff') format('woff'), url('/fonts_itself/firasanslight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fira Sans';
+    src: local('Fira Sans'), local('FiraSans'), url('/fonts_itself/firasans.woff2') format('woff2'), url('/fonts_itself/firasans.woff') format('woff'), url('/fonts_itself/firasans.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Fira Sans Bold';
+    src: local('Fira Sans'), local('FiraSans-Regular'), url('/fonts_itself/FiraSans-Bold.otf') format('otf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: local('Open Sans'), local('OpenSans'), url('/fonts_itself/open-sans-bold.ttf') format('ttf'), url('/fonts_itself/firasans.woff') format('woff'), url('/fonts_itself/open-sans-bold.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
