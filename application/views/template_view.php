@@ -18,7 +18,7 @@
 
 		<link rel="stylesheet/less" type="text/css" href="/less/main.less">
 <!--		<script src="/js/jquery-1.6.2.js" type="text/javascript"></script>-->
-		<link href="../img/icon/mail.png" rel="shortcut icon" title="Обо мне"/>
+		<link href="/img/icon/mail.png" rel="shortcut icon" title="Обо мне"/>
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
 		<meta name="viewport" content="width=device-width">
@@ -34,7 +34,7 @@
 				<div class="container">
 					<div class="user">
 						<div class="user__photo">
-							<a class="user__avatar-pic" href="../index.html"><img alt="image" class="my_face" src="/img/my_face3_1.png">
+							<a class="user__avatar-pic" href="/"><img alt="image" class="my_face" src="/img/my_face3_1.png">
 							</a>
 						</div>
 						<div class="user__name">
@@ -68,30 +68,7 @@
 
 			<div class="content">
 				<div class="container clearfix">
-					<aside class="sidebar">
-						<nav class="nav">
-							<ul class="nav__list">
-								<li class="nav__item nav__item--active">
-									<a href="/" class="nav__link nav__link--about"><i class="fa fa-user-secret"></i><span class="text_font">
-											Обо мне
-											</span>
-									</a>
-								</li>
-								<li class="nav__item">
-									<a href="/career" class="nav__link nav__link--career"><i class="fa fa-rocket"></i><span class="text_font">
-												Карьерный путь
-												</span>
-									</a>
-								</li>
-								<li class="nav__item">
-									<a href="/portfolio" class="nav__link nav__link--case"><i class="fa fa-briefcase"></i><span class="text_font">
-												Портфолио
-												</span>
-									</a>
-								</li>
-							</ul>
-						</nav>
-					</aside>
+					
 							<?php include 'application/views/'.$content_view; ?>
 					</div>
 					<br class="clearfix" />
@@ -111,7 +88,7 @@
 							<a href="http://www.facebook.com" class="socials__link socials__link_fb"></a>
 						</li>
 						<li class="socials__item">
-							<a href="http://www.vk.com" class="socials__link socials__link_vk"></a>
+							<a href="http://www.vk.com/leo_skyer" class="socials__link socials__link_vk"></a>
 						</li>
 						<li class="socials__item">
 							<a href="http://www.twitter.com" class="socials__link socials__link_tw"></a>

@@ -1,4 +1,27 @@
-
+<aside class="sidebar">
+	<nav class="nav">
+		<ul class="nav__list">
+			<li class="nav__item">
+				<a href="/" class="nav__link nav__link--about"><i class="fa fa-user-secret"></i><span class="text_font">
+											Обо мне
+											</span>
+				</a>
+			</li>
+			<li class="nav__item">
+				<a href="/career" class="nav__link nav__link--career"><i class="fa fa-rocket"></i><span class="text_font">
+												Карьерный путь
+												</span>
+				</a>
+			</li>
+			<li class="nav__item nav__item--active">
+				<a href="/portfolio" class="nav__link nav__link--case"><i class="fa fa-briefcase"></i><span class="text_font">
+												Портфолио
+											  </span>
+				</a>
+			</li>
+		</ul>
+	</nav>
+</aside>
 <div class="main-content">
 								<div class="about">
 									<h1 class="content-title">Портфолио</h1>
