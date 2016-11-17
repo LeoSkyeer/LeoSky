@@ -402,7 +402,7 @@ span{
 }
 
 .about__text {
-	height: 291px;
+	height: 400px;
 	width: 365px;
 	overflow: auto;
 	font-size:18px;
@@ -416,7 +416,7 @@ span{
 	display: inline-block;
 	position: absolute;
 	right: 15px;
-	margin-top: 70px;
+	/*margin-top: 70px;*/
 	font-family: "Open Sans";
 }
 
