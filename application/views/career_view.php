@@ -1,3 +1,6 @@
+<title>
+    Career
+</title>
 <aside class="sidebar">
     <nav class="nav">
         <ul class="nav__list">

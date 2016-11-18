@@ -5,7 +5,7 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 
-		<title>About</title>
+		
 		<link rel="stylesheet" href="/css/fonts/firasans.css">
 		<link rel="stylesheet" href="/css/fonts/font-awesome.css">
 
@@ -42,25 +42,9 @@
 						</div>
 					</div>
 					<div class="contacts">
-						<a href="#" class="contacts__trigger">Мои контакты
-						</a>
-						<ul class="contacts__dropdown">
-							<li class="contacts__dropdown-item ">
-								<a href="#" class="contacts__dropdown-link contacts__dropdown-link--mail ">
-									vasya_90@list.ru
-								</a>
-							</li>
-							<li class="contacts__dropdown-item  ">
-								<a href="#" class="contacts__dropdown-link contacts__dropdown-link--phone">
-									+7 914 672 ** **
-								</a>
-							</li>
-							<li class="contacts__dropdown-item">
-								<a href="#" class="contacts__dropdown-link contacts__dropdown-link--skype">
-									Leo_Skyer-6-strings
-								</a>
-							</li>
-						</ul>
+						<a href="/contacts" class="contacts__trigger">Связаться со мной</a>
+
+						
 					</div>
 				</div>
 			</header>

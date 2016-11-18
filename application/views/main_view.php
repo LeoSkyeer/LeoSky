@@ -1,3 +1,6 @@
+<head>
+    <title>About</title>
+</head>
 <link href="/img/icon/mail.png" rel="shortcut icon" title="Обо мне"/>
 <aside class="sidebar">
     <nav class="nav">
@@ -27,7 +30,7 @@
     <div class="about">
         <div class="about__left">
             <div class="about__photo">
-                <img src="/img/my_face2_1.png" class="about__photo-item" alt="">
+                <img src="/img/my_face2_1.png" class="about__photo-item"">
             </div>
         </div>
 
@@ -39,7 +42,7 @@
                 <p>Интернет сообщество очень интересно, и открывает новые стороны каждый день. </p>
             </div>
             <div class="about__resume">
-                <a href="#" class="about__resume-link about__resume-link-download" download><i class="fa fa-download"></i> Скачать резюме</a>
+                <a href="/document/Карта.docx" class="about__resume-link about__resume-link-download" download><i class="fa fa-download"></i> Скачать резюме</a>
             </div>
         </div>
     </div>
